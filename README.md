@@ -71,14 +71,6 @@ AI-powered LinkedIn automation tool for job search, vehicle sales, and B2B prosp
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanth-baskaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth-baskaran&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
